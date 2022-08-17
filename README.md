@@ -27,7 +27,6 @@ or
 conda install pandas
 ```
 
-https://github.com/enginance/Pandas-GoBy/blob/main/pandas-structures-annotated.png
 
 ## Usage
 
@@ -46,8 +45,6 @@ https://github.com/enginance/Pandas-GoBy/blob/main/pandas-structures-annotated.p
 print(df['Symbol'])
 
 ```
-
-![Figure_1](https://user-images.githubusercontent.com/90355826/158221954-55c43927-c456-48f7-abe3-6582d47186ec.png)
 
 
 ## Contributing
