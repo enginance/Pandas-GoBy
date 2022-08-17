@@ -27,6 +27,8 @@ or
 conda install pandas
 ```
 
+https://github.com/enginance/Pandas-GoBy/blob/main/pandas-structures-annotated.png
+
 ## Usage
 
 ```python
