@@ -18,7 +18,7 @@ Pandas for Data Science tutorial. I hope you will find this tutorial useful and 
 ## Pandas Dataframe
 
 <p align="center">
-    <img width=60% src="https://github.com/enginance/Pandas-GoBy/blob/main/images/pandas-structures-annotated.png">
+    <img width=100% src="https://github.com/enginance/Pandas-GoBy/blob/main/images/pandas-structures-annotated.png">
 </p>
 
 
