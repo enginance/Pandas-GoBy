@@ -14,6 +14,15 @@
 # Pandas-GoBy
 Pandas for Data Science tutorial. I hope you will find this tutorial useful and easy to use
 
+
+## Pandas Dataframe
+
+<p align="center">
+    <img width=60% src="https://github.com/enginance/Pandas-GoBy/blob/main/images/pandas-structures-annotated.png">
+</p>
+
+
+
 ## Installation
 
 Thanks a lot internet for the exceptional opensource material online available to everyone!
